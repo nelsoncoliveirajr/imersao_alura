@@ -1,4 +1,3 @@
-# imersao_alura
 # Projeto da Imersão da Alura utilizando a API do Gemini Google
 
 Nesse projeto estou realizando a experimentação da API do Gemini Google para uma tarefa de classificação de interações textuais de clientes com empresas, realizando a identificação de eventuais reclamações relacionadas a racismo, homofobia, etarismo e classismo.
